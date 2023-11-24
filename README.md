@@ -1,4 +1,4 @@
-# 🌸 Girly Hand Tracking using Python with MediaPipe 🤲
+# 🌸 Hand Tracking using Python with MediaPipe 🤲
 
 ![Hand Tracking Demo](demo.gif)
 
